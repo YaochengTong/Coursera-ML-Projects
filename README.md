@@ -4,7 +4,7 @@ Machine learning projects, Andrew Ng's class assignment on Coursera
 
 ## Getting Started
 
-The original class assignment is written in Matlab/Octave, but this project is written in Python 3.6 because Python provided convenient libraries and much more useful tools.
+The original class assignment is written in Matlab/Octave, but this project is written in Python 3 because Python provided convenient libraries and much more useful tools.
 
 ### Prerequisites
 
