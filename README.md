@@ -8,11 +8,11 @@ The original class assignment is written in Matlab/Octave, but this project is w
 
 ### Prerequisites
 
-* jupyter notebook
+-   jupyter notebook
 
-```
-$ pip install notebook
-```
+<!-- -->
+
+    $ pip install notebook
 
 ## Deployment
 
@@ -20,7 +20,7 @@ Run jupyter notebook in commend line and open ".ipynb" file
 
 ## Authors
 
-- [Yaocheng Tong](https://github.com/YaochengTong)
+-   [Yaocheng Tong](https://github.com/YaochengTong)
 
 ## License
 
@@ -28,8 +28,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Acknowledgments
 
-- Reference 黄海广's [repository](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
+-   Andrew Ng, Coursera Machine Learning Class
 
-- Andrew Ng, Coursera Machine Learning Class
-
-  
+-   Coursera-ML-AndrewNg-Notes by fengdu78
