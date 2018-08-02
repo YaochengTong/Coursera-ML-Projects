@@ -24,7 +24,7 @@ Run jupyter notebook in commend line and open ".ipynb" file
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/YaochengTong/Coursera-ML-Projects/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/YaochengTong/Coursera-ML-Projects/LICENSE) file for details
 
 ## Acknowledgments
 
